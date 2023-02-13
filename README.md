@@ -60,19 +60,19 @@ Caso seja necessário, não hesite em rever as aulas dadas no Turing Academy ou 
 
 **Dicas**
 
-Em uma análise é sempre necessário comentar todos os passos e descobertas, mesmo as que parecem “óbvias”, pois é importante para o leitor entender cada etapa
+- Em uma análise é sempre necessário comentar todos os passos e descobertas, mesmo as que parecem “óbvias”, pois é importante para o leitor entender cada etapa
 
-Não se esqueça de sempre observar se as colunas estão com os data types corretos
+- Não se esqueça de sempre observar se as colunas estão com os data types corretos
 
-Para colunas categóricas verifique se os valores únicos fazem sentido
+- Para colunas categóricas verifique se os valores únicos fazem sentido
 
-Verifique também sempre se os valores mínimos e máximos das variáveis numéricas fazem sentido para cada coluna
+- Verifique também sempre se os valores mínimos e máximos das variáveis numéricas fazem sentido para cada coluna
 
-Os NaNs devem ser tratados apropriadamente, e nem sempre removê-los é a melhor solução
+- Os NaNs devem ser tratados apropriadamente, e nem sempre removê-los é a melhor solução
 
-Embora a limpeza seja importante, não foque apenas nela, divida bem seu tempo para fazer também uma análise bem feita
+- Embora a limpeza seja importante, não foque apenas nela, divida bem seu tempo para fazer também uma análise bem feita
 
-Explore todos os tipos de gráficos possíveis na hora da análise e teste suas hipóteses com eles
+- Explore todos os tipos de gráficos possíveis na hora da análise e teste suas hipóteses com eles
 
 Caso precise de inspiração, veja análises de outras pessoas (o Kaggle é um bom lugar para isso; o link para o dataset original retirado de lá, caso queira conferir é este, mas você deve utilizar o dataset que já foi passado acima, na primeira página deste arquivo)
 
